@@ -1,2 +1,2 @@
 # omni-food
-A restaurant website built using HTML, CSS and JS
+An Online Food Delivery website built using HTML and CSS
